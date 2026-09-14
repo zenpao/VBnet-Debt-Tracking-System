@@ -94,4 +94,4 @@ VBnet-Debt-Tracking-System/
 
 ## License
 
-Not specified.
+Apache License 2.0
